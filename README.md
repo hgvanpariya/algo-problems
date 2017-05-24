@@ -7,7 +7,7 @@ This repository is created, to provide the solution to the different algorithmic
 - Divide Two integers without using * /
 - Grading students
 
-# Cosing Concept
+# Coding Concept
 - How to create Deamon Thread
 
 # Design Patter
