@@ -1,5 +1,11 @@
 package code.concept;
 
+/**
+ * How to create a deamon thread
+ * 
+ * @author Harikrushna
+ *
+ */
 public class DeamonThread extends Thread {
 
 	public DeamonThread() {
