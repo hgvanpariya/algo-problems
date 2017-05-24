@@ -1,4 +1,4 @@
-package code.concept;
+package code.concept.designpattern;
 
 /**
  * This is singleton design pattern which will help to create the object of the
