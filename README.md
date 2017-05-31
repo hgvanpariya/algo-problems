@@ -6,6 +6,7 @@ This repository is created, to provide the solution to the different algorithmic
 - Merge Sort for Linked List
 - Divide Two integers without using * /
 - Grading students
+- Next Greater Element
 
 # Coding Concept
 - How to create Deamon Thread
